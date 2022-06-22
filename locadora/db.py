@@ -1,4 +1,0 @@
-client = {}
-films = {}
-rents = {}
-employee = {}
