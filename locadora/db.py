@@ -1,0 +1,5 @@
+client = {}
+films = {}
+rents = {}
+employee = {}
+
